@@ -13,6 +13,6 @@ menu:
       - title: "AI 平台建置"
         url: /ai-platform-deployment/
       - title: "AI 邊緣應用"
-        url: /AI-edge/
+        url: /ai-edge/
   - title: "Infra"
     url: /Infra/
