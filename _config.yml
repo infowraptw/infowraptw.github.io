@@ -17,6 +17,7 @@ url: "https://infowraptw.github.io"
 baseurl: ""
 
 title: 勁智數位科技
+logo: "assets/images/Infowrap-logo.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   HPC/Proxmox/AI
